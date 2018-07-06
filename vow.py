@@ -1,4 +1,4 @@
-a=['a','e','i','o','u','A','E','I','O','U']
+a=['a','e','i','o','u']
 b=input()
 if b in a:
 	print("Vowel")
