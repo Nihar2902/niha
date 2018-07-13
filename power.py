@@ -1,3 +1,3 @@
-c=int(input())
-d=int(input())
-print(d**c)
+e=int(input())
+f=int(input())
+print(f**e)
